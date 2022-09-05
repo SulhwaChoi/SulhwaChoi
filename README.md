@@ -1,4 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&width=180%&section=header&text=Hi,%20%20%20I'm%20Sulhwa%20Choi%20&animation=twinkling&fontSize=55)
+
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
+/>
+
+
+
 <!--
 **SulhwaChoi/SulhwaChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
