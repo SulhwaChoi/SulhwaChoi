@@ -5,5 +5,7 @@
 <h3 align="center">🪄 My Stats 🪄</h3>
 
 
-## ⚡️ Language ⚡️
+<br>
+
+<h3 align="center">💡 Most Used 💡</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulhwaChoi&layout=compact)](https://github.com/SulhwaChoi)
