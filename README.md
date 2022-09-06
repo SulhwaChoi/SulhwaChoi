@@ -1,9 +1,9 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&width=180%&section=header&text=Hi,%20%20%20I'm%20Sulhwa%20Choi%20🥰&animation=twinkling&fontSize=55)
-
 <br>
-
+<br>
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulhwachoi&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
