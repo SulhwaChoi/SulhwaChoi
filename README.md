@@ -3,6 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&width=180%&section=header&text=Hi,%20%20%20I'm%20Sulhwa%20Choi%20🥰&animation=twinkling&fontSize=52)
 <br>
 <br>
+
+<h3 align="center"><b>💌  💌 </b></h3>
+</br>
+<p align="center">
+  <a href="https://sulhwachoi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  &nbsp
+  <a href="https://sulhwachoi.github.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
+
+
 <hr>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulhwachoi&layout=compact&theme=buefy&border_color=e2d8ed&title_color=ccd5e8)](https://github.com/anuraghazra/github-readme-stats)
