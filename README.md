@@ -4,13 +4,14 @@
 <br>
 <br>
 
-<h3 align="center"><b>💌  💌 </b></h3>
+<h3 align="center"><b>💌 ME </b></h3>
+
 </br>
+
 <p align="center">
   <a href="https://sulhwachoi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   &nbsp
-  <a href="https://sulhwachoi.github.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:imsulhwa00@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imsulhwa00@gmail.com"/></a>
 </p>
 
 
