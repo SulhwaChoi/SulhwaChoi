@@ -19,9 +19,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulhwachoi&layout=compact&theme=buefy&border_color=e2d8ed&title_color=ccd5e8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sobin0323)](https://solved.ac/sobin0323/)
-
-
 <br>
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSulhwaChoi&count_bg=%23F1E2FB&title_bg=%23DAE7FD&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
