@@ -5,7 +5,7 @@
 <br>
 <hr>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulhwachoi&layout=compact&theme=buefy&hide_border=true&title_color=b5c7e8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulhwachoi&layout=compact&theme=buefy&border_color=e2d8ed&title_color=a2c2e0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
