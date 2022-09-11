@@ -20,7 +20,6 @@
 <hr>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulhwaChoi&layout=compact&theme=buefy&border_color=e2d8ed&title_color=ccd5e8)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
 
 <br>
 
