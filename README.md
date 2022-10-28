@@ -9,8 +9,6 @@
 </br>
 
 <p align="center">
-  <a href="https://github.com/SulhwaChoi" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  &nbsp
   <a href="https://velog.io/@hi_sulhwa" target="_blank"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   &nbsp
   <a href="mailto:imsulhwa00@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imsulhwa00@gmail.com"/></a>
