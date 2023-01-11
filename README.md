@@ -1,7 +1,7 @@
 <div align="center">
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&width=180%&section=header&text=Hi,%20%20%20I'm%20Sulhwa%20Choi%20&animation=twinkling&fontSize=52)-->
-<h2 align="center"><b> Hi, I'm Sulhwa Choi 🙋🏻‍♀️</b></h2>
+<h1 align="center"><b> 🌱 Hi, I'm Sulhwa Choi 🌱</b></h1>
 
 ![478e58979d2510e6d686979261c4a2d9](https://user-images.githubusercontent.com/111855150/211812556-0f3befa3-991c-46a0-8078-46ddc3a329ef.gif)
 
