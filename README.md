@@ -25,8 +25,7 @@
   <a href="https://velog.io/@hi_sulhwa" target="_blank"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   &nbsp
   <a href="mailto:imsulhwa00@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imsulhwa00@gmail.com"/></a>
-  &nbsp
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-A493E7?style=flat-square&logo=Southwest Airlines&logoColor=white&link=imsulhwa00@gmail.com"/></a>
+</a>
 </p>
 
 <br>
